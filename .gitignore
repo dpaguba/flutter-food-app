@@ -45,3 +45,7 @@ x86/
 !*.[Cc]ache/
 
 .DS_Store
+.idea
+linux
+macos
+windows
